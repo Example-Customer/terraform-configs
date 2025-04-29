@@ -1,32 +1,33 @@
 prod_admins:
-- alex.smith@serval.com
-- jordan.brown@serval.com
-- taylor.jones@serval.com
-- casey.miller@serval.com
-- morgan.davis@serval.com
-- jamie.wilson@serval.com
-- reese.moore@serval.com
-- avery.taylor@serval.com
-- riley.anderson@serval.com
-- charlie.thomas@serval.com
-- drew.jackson@serval.com
-- cameron.white@serval.com
-- blake.harris@serval.com
-- devon.martin@serval.com
-- harper.thompson@serval.com
-- quinn.garcia@serval.com
+  - alex.smith@serval.com
+  - avery.taylor@serval.com
+  - blake.harris@serval.com
+  - cameron.white@serval.com
+  - casey.miller@serval.com
+  - charlie.thomas@serval.com
+  - devon.martin@serval.com
+  - drew.jackson@serval.com
+  - harper.thompson@serval.com
+  - jamie.wilson@serval.com
+  - jordan.brown@serval.com
+  - morgan.davis@serval.com
+  - quinn.garcia@serval.com
+  - reese.moore@serval.com
+  - riley.anderson@serval.com
+  - taylor.jones@serval.com
+  - teddy@serval.com
 staging_admins:
-- skyler.martinez@serval.com
-- remy.robinson@serval.com
-- sasha.clark@serval.com
-- kendall.rodriguez@serval.com
-- dallas.lewis@serval.com
-- emerson.lee@serval.com
-- parker.walker@serval.com
-- ryan.hall@serval.com
-- payton.allen@serval.com
-- elliot.young@serval.com
-- angel.mitchell@serval.com
-- case.morris@serval.com
-- blair.ward@serval.com
-- hunter.cox@serval.com
+  - skyler.martinez@serval.com
+  - remy.robinson@serval.com
+  - sasha.clark@serval.com
+  - kendall.rodriguez@serval.com
+  - dallas.lewis@serval.com
+  - emerson.lee@serval.com
+  - parker.walker@serval.com
+  - ryan.hall@serval.com
+  - payton.allen@serval.com
+  - elliot.young@serval.com
+  - angel.mitchell@serval.com
+  - case.morris@serval.com
+  - blair.ward@serval.com
+  - hunter.cox@serval.com
